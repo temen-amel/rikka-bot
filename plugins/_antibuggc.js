@@ -1,4 +1,4 @@
-const { WA_MESSAGE_STUB_TYPE } = require('@adiwajshing/baileys')
+ pconst { WA_MESSAGE_STUB_TYPE } = require('@adiwajshing/baileys')
 
 module.exports = {
   all(m, chatUpdate) {
